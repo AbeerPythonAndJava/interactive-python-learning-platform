@@ -25,6 +25,9 @@ Project Demo
 ### Application Homepage
 
 ![Python Learning Platform Homepage](FB_IMG_1792515756128.jpg)
+### Interactive Python Code Editor
+
+![Python Code Editor and Execution](Screenshot_20261020_201244_Chrome.jpg)
 Screenshots and a demonstration video will be added soon.
 
 Access
