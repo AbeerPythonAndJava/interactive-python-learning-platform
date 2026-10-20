@@ -43,6 +43,3 @@ Computer Science Lecturer | Python Programming Trainer
 
 
 
-https://github.com/user-attachments/assets/d834092d-9e2b-4687-a396-5e8c039a3dc1
-
-
