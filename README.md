@@ -29,9 +29,7 @@ Project Demo
 
 ![Python Code Editor and Execution](Screenshot_20261020_201244_Chrome.jpg)
 ### Watch the Application Demo 🎬
-
-[▶️ Watch the Python Learning Platform Demo](2026-10-16-204959757.mp4)
-Screenshots and a demonstration video will be added soon.
+https://github.com/user-attachments/assets/d834092d-9e2b-4687-a396-5e8c039a3dc1
 
 Access
 
@@ -42,3 +40,9 @@ Developed By
 Abeer Eissa
 
 Computer Science Lecturer | Python Programming Trainer
+
+
+
+https://github.com/user-attachments/assets/d834092d-9e2b-4687-a396-5e8c039a3dc1
+
+
