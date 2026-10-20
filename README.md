@@ -28,6 +28,9 @@ Project Demo
 ### Interactive Python Code Editor
 
 ![Python Code Editor and Execution](Screenshot_20261020_201244_Chrome.jpg)
+### Watch the Application Demo 🎬
+
+[▶️ Watch the Python Learning Platform Demo](2026-10-16-204959757.mp4)
 Screenshots and a demonstration video will be added soon.
 
 Access
